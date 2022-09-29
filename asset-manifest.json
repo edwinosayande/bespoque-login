@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bespoque-login/static/css/main.9ff62d36.css",
+    "main.js": "/bespoque-login/static/js/main.0c16b0eb.js",
+    "static/js/787.525ee9a5.chunk.js": "/bespoque-login/static/js/787.525ee9a5.chunk.js",
+    "static/media/front.jpg": "/bespoque-login/static/media/front.6b73fc60b62f7528ac9e.jpg",
+    "index.html": "/bespoque-login/index.html",
+    "main.9ff62d36.css.map": "/bespoque-login/static/css/main.9ff62d36.css.map",
+    "main.0c16b0eb.js.map": "/bespoque-login/static/js/main.0c16b0eb.js.map",
+    "787.525ee9a5.chunk.js.map": "/bespoque-login/static/js/787.525ee9a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ff62d36.css",
+    "static/js/main.0c16b0eb.js"
+  ]
+}
